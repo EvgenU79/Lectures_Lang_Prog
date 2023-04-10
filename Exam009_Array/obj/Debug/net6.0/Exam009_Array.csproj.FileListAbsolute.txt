@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\bin\Debug\net6.0\Exam009_Array.exe
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\bin\Debug\net6.0\Exam009_Array.deps.json
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\bin\Debug\net6.0\Exam009_Array.runtimeconfig.json
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\bin\Debug\net6.0\Exam009_Array.dll
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\bin\Debug\net6.0\Exam009_Array.pdb
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\obj\Debug\net6.0\Exam009_Array.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\obj\Debug\net6.0\Exam009_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\obj\Debug\net6.0\Exam009_Array.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\obj\Debug\net6.0\Exam009_Array.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\obj\Debug\net6.0\Exam009_Array.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\obj\Debug\net6.0\Exam009_Array.dll
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\obj\Debug\net6.0\refint\Exam009_Array.dll
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\obj\Debug\net6.0\Exam009_Array.pdb
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\obj\Debug\net6.0\Exam009_Array.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam009_Array\obj\Debug\net6.0\ref\Exam009_Array.dll
