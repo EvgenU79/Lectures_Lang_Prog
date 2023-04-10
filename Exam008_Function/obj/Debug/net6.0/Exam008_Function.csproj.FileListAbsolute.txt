@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\bin\Debug\net6.0\Exam008_Function.exe
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\bin\Debug\net6.0\Exam008_Function.deps.json
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\bin\Debug\net6.0\Exam008_Function.runtimeconfig.json
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\bin\Debug\net6.0\Exam008_Function.dll
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\bin\Debug\net6.0\Exam008_Function.pdb
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\obj\Debug\net6.0\Exam008_Function.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\obj\Debug\net6.0\Exam008_Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\obj\Debug\net6.0\Exam008_Function.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\obj\Debug\net6.0\Exam008_Function.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\obj\Debug\net6.0\Exam008_Function.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\obj\Debug\net6.0\Exam008_Function.dll
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\obj\Debug\net6.0\refint\Exam008_Function.dll
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\obj\Debug\net6.0\Exam008_Function.pdb
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\obj\Debug\net6.0\Exam008_Function.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\УЧЕБА\Знакомство с языками программирования\Лекция 1\Examples 2\Exam008_Function\obj\Debug\net6.0\ref\Exam008_Function.dll
